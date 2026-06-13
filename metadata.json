@@ -1,0 +1,12 @@
+{
+  "name": "Aura Market",
+  "description": "A premium, world-class e-commerce and shopping experience. Features immersive product galleries, modern order checkpoints, reactive user dashboards, visual analytics, and an integrated AI Styling Assistant.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
